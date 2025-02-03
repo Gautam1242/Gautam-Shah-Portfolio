@@ -24,6 +24,9 @@ const App = () => {
       </Routes>
 
       {/* In-page sections for smooth scroll */}
+      <div id="home">
+        <Home />
+      </div>
       <div id="about">
         <About />
       </div>
